@@ -4,6 +4,7 @@ public class HelloWorld {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     System.out.println("Hello, World!");
     System.out.println("This is not an ordinary HelloWorld program, it also greets the end user!");
+    System.out.print("Please input your name: ");
     String name =br.readLine();
     System.out.println("Hello, "+name+"!");
     }
