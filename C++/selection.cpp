@@ -27,7 +27,7 @@ int Selection_Sort(int arr[],int n)
     swap(&arr[min],&arr[i]);
  }
 }
-int dispaly(int arr[],int n)
+int display(int arr[],int n)
 {
 for(int i=0;i<n;i++)
 	cout<<arr[i]<<" "<<endl<<endl;
@@ -53,7 +53,7 @@ int main()
 	
 	Selection_Sort(arr,n);
 	cout<<"Sorted array elements are:"<<endl;
-	dispaly(arr,n);
+	display(arr,n);
 	return 0;
 
 }
