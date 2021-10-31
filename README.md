@@ -22,4 +22,6 @@ Contribute simple quality programs to this repository that may benefit newbies o
 * [Foreach](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/forEach.js)
 * [Map](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/map.js)
 * [Reduce](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/reduce.js)
+### Python:
+* [Hello World](https://github.com/mohit103/sample-programs/blob/main/Python/HelloWorld.py)
 
