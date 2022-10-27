@@ -13,13 +13,12 @@ int partition (int arr[], int low, int high)
 {
 	int pivot = arr[high]; // it takes high element as pivot.
 
-	int i = (low - 1); //  means i = -1 , i is basically keeping track of smaller 
-
-elements then j so ehen j founds a element which is smaller than high it can swap it 
-
-with i,index of smaller element and also used to indicate position of the pivot where 
-
-pivot should be placed
+	int i = (low - 1); 
+	/* means i = -1 , i is basically keeping track of smaller 
+	 * elements then j so ehen j founds a element which is smaller than high it can swap it 
+	 * with i,index of smaller element and also used to indicate position of the pivot where 
+	 * pivot should be placed
+	 */
 
 	for(int j =low ; j<= high - 1; j++)
 	{
@@ -30,11 +29,12 @@ pivot should be placed
 		}
 	}
 
-	swap(&arr[ i + 1], &arr[high]); // now we will have alll smaller number 
+	swap(&arr[ i + 1], &arr[high]); 
 
-then pivot in left of i and larger no in right of i so we have to swap i+1 index and high 
-
-to put our pivot in position.
+	/* now we will have alll smaller number 
+	then pivot in left of i and larger no in right of i so we have to swap i+1 index and high 
+	to put our pivot in position.
+	*/
 	return (i + 1); // return the address of pivot element.
 }
 
@@ -42,9 +42,7 @@ void QuickSort( int arr[], int low, int high)
 {
 	if(low < high)
 	{
-		int pi = partition(arr, low, high); // pivot element index will be 
-
-stored inside it.
+		int pi = partition(arr, low, high); // pivot element index will be stored inside it.
         
         QuickSort(arr, low, pi - 1); // quicksort on left side.
         QuickSort(arr, pi +1, high); // quicksort on right side.
