@@ -37,8 +37,15 @@ void main()
               if(p[i][j]==num) 
             {
                 c++;
+		goto done;
             }
         }
     }
-    printf("Element found %d time(s).\n", c);
+   done:
+    if (c) {
+    	printf("Element found at %d,%d\n", i,j);
+    } else {
+	    printf("Element not found\n");
+    }
+
 }
