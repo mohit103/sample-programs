@@ -1,5 +1,5 @@
-# sample-programs for Hacktoberfest2021
-Contribute simple quality programs to this repository that may benefit newbies or make quality improvements to the existing ones and create a pull request.<br />Every possible language is welcome! Please make sure the programs are organized in directories corresponding to their respective language. If the the directory for a language doesn't exist, create one!<br />For more details: [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/resources))
+# sample-programs for Hacktoberfest2022
+Contribute simple quality programs to this repository that may benefit newbies or make quality improvements to the existing ones and create a pull request.<br />Every possible language is welcome! Please make sure the programs are organized in directories corresponding to their respective language. If the the directory for a language doesn't exist, create one!<br />For more details: [Hacktoberfest 2022](https://hacktoberfest.com/participation/))
 
 ## List of programs:
 ### C++:
