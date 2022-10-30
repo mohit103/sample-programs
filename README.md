@@ -18,7 +18,7 @@ Contribute simple quality programs to this repository that may benefit newbies o
 * [Hello World](https://github.com/mohit103/sample-programs/blob/main/Java/HelloWorld.java)
 * [Search rotated array](https://github.com/mohit103/sample-programs/blob/main/Java/Search_Raotated_Sorted_Array.java)
 ### Javascript:
-* Higher Order Functions
+* [Higher Order Functions](https://github.com/mohit103/sample-programs/tree/main/JavaScript/HOF)
   - [Filter](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/filter.js)
   - [Foreach](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/forEach.js)
   - [Map](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/map.js)
