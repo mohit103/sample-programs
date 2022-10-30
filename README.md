@@ -19,10 +19,10 @@ Contribute simple quality programs to this repository that may benefit newbies o
 * [Search rotated array](https://github.com/mohit103/sample-programs/blob/main/Java/Search_Raotated_Sorted_Array.java)
 ### Javascript:
 * Higher Order Functions
-- [Filter](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/filter.js)
-- [Foreach](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/forEach.js)
-- [Map](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/map.js)
-- [Reduce](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/reduce.js)
+  - [Filter](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/filter.js)
+  - [Foreach](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/forEach.js)
+  - [Map](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/map.js)
+  - [Reduce](https://github.com/mohit103/sample-programs/blob/main/JavaScript/HOF/reduce.js)
 ### Python:
 * [Hello World](https://github.com/mohit103/sample-programs/blob/main/Python/HelloWorld.py)
 
